@@ -14,10 +14,6 @@ def obtener_opcion():
     return opcion
 
 
-# trabajo_De_Texto_Con_Python
-# soluciones_algorítmicas_con_Python
-
-
 def suma_letras():
     cadena = input("Ingrese cadena a tratar: ")
     cadena = list(cadena)
